@@ -1,6 +1,6 @@
 ﻿namespace MathiasVansteensel.GIP._2022_2023.CrossPlatform.Networking;
 
-internal class CLI
+internal class Program
 {
     static void Main(string[] args)
     {
