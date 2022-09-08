@@ -18,7 +18,7 @@ public enum NetworkProtocol
 
 internal class NetworkClient
 {
-    bool IsAlive(, NetworkProtocol protocol = NetworkProtocol.HTTP) 
+    bool IsAlive(RemoteHost host, NetworkProtocol protocol = NetworkProtocol.HTTP) 
     {
         switch (protocol)
         {
