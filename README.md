@@ -1,10 +1,14 @@
-Base Namespace: MathiasVansteensel.GIP._2022_2023.*Sub_namespace_here*
+<b>Base Namespace:</b> MathiasVansteensel.GIP._2022_2023.<b>*Sub_namespace_here*</b>
 
-Concept: smarthome system with sensor/actuator modules that connect to a central hub (which is connected to the internet)
+<b>Concept:</b>
+</br>smarthome system with sensor/actuator modules that connect to a central hub *(which is connected to the internet)* and are controllable from a smartphone/website/desktop app
 
-rough part list:
-  -5x node mcu (smoke alarm + smart powerplug + environmental sensor module + smart light bulb + door sensor)
-  -hall effect sensor (door sensor)
-  -acs712 current sensor (smart power plug)
-  -2x 100MOhm resistor (smart power plug)
-  
+<b>
+  rough part list:
+</b>
+<td>
+  &emsp;-5x node mcu (smoke alarm + smart powerplug + environmental sensor module + smart light bulb + door sensor)</br>
+  &emsp;-hall effect sensor (door sensor)</br>
+  &emsp;-acs712 current sensor (smart power plug)</br>
+  &emsp;-2x 100MOhm resistor (smart power plug)
+</tb>
